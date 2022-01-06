@@ -1,14 +1,10 @@
-# 🤖 OSSDAO Github contrib Bot
-
-OSSDAO.org
-
 ## 🛠️ Installation
 
 **DOWNLOAD** this repository and **UPLOAD** to your new own repository to make the changes in your local system.
 
 ```git-bash
-git clone https://github.com/YOUR-USERNAME/ossdao
-cd ossdao
+git clone https://github.com/YOUR-USERNAME/TESTING
+cd TESTING
 ```
 
 Now, this command creates a directory named *node_modules* and installs all the required packages in it.
